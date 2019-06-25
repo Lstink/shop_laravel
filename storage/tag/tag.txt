@@ -1,0 +1,1 @@
+{"tags":[{"id":2,"name":"星标组","count":0},{"id":100,"name":"男生","count":0},{"id":101,"name":"女生","count":0},{"id":102,"name":"青少年","count":0},{"id":103,"name":"好奇怪啊","count":0},{"id":104,"name":"什么鬼","count":0},{"id":105,"name":"好气啊","count":0},{"id":106,"name":"才好啊","count":0}]}
